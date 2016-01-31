@@ -33,5 +33,10 @@
     "node": ">=0.10.0",
     "npm": ">=1.2.10"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
 }

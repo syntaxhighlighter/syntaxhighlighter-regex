@@ -1,5 +1,5 @@
 {
-  "name": "regex-lib",
+  "name": "@alexgorbatchev/regex-lib",
   "version": "4.0.0",
   "description": "Common regular expressions used by SyntaxHighlighter modules.",
   "keywords": [

@@ -6,7 +6,7 @@ Common regular expressions used by [SyntaxHighlighter](https://github.com/syntax
 
 ## Installation
 
-    npm install @alexgorbatchev/regex-lib
+    npm install regex-lib
 
 ## Testing
 

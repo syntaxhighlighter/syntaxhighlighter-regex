@@ -1,5 +1,5 @@
 {
-  "name": "@alexgorbatchev/regex-lib",
+  "name": "regex-lib",
   "version": "4.0.0",
   "description": "Common regular expressions used by SyntaxHighlighter modules.",
   "keywords": [
@@ -21,7 +21,7 @@
     "test": "mocha --opts mocha.opts test.js"
   },
   "dependencies": {
-    "@alexgorbatchev/xregexp": "^4.0.0"
+    "xregexp": "^4.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.1.21",

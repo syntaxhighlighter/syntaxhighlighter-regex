@@ -1,6 +1,6 @@
 # syntaxhighlighter/regex-lib
 
-Common regular expressions used by [SyntaxHighlighter](https://github.com/syntaxhighlighter) modules.
+Common regular expressions used by [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) modules.
 
 [![Build Status](https://travis-ci.org/syntaxhighlighter/regex-lib.svg)](https://travis-ci.org/syntaxhighlighter/regex-lib)
 

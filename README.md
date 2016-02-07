@@ -1,16 +1,25 @@
-# syntaxhighlighter/regex-lib
+# syntaxhighlighter-regex
 
-Common regular expressions used by [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) modules.
+[![GratiPay](https://img.shields.io/gratipay/user/alexgorbatchev.svg)](https://gratipay.com/alexgorbatchev/)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/syntaxhighlighter-regex.svg)](https://travis-ci.org/syntaxhighlighter/syntaxhighlighter-regex)
+![Downloads](https://img.shields.io/npm/dm/syntaxhighlighter-regex.svg)
+![Version](https://img.shields.io/npm/v/syntaxhighlighter-regex.svg)
 
-[![Build Status](https://travis-ci.org/syntaxhighlighter/regex-lib.svg)](https://travis-ci.org/syntaxhighlighter/regex-lib)
+Common regular expressions used by [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) modules and a proxy to [XRegExp](https://github.com/slevithan/xregexp).
+
+Exports `XRegExp` and `commonRegExp`.
 
 ## Installation
 
-    npm install regex-lib
+```
+npm install syntaxhighlighter-regex
+```
 
 ## Testing
 
-    npm test
+```
+npm test
+```
 
 ## License
 

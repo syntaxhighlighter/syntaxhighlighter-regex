@@ -1,27 +1,25 @@
 {
-  "name": "regex-lib",
+  "name": "syntaxhighlighter-regex",
   "version": "4.0.0",
-  "description": "Common regular expressions used by SyntaxHighlighter modules.",
+  "description": "Common regular expressions used by SyntaxHighlighter modules and a proxy for XRegExp.",
   "keywords": [
     "syntaxhighlighter",
-    "regex"
+    "regex",
+    "core"
   ],
-  "homepage": "https://github.com/syntaxhighlighter/regex-lib",
-  "bugs": "https://github.com/syntaxhighlighter/regex-lib/issues",
+  "homepage": "https://github.com/syntaxhighlighter/syntaxhighlighter-regex",
+  "bugs": "https://github.com/syntaxhighlighter/syntaxhighlighter-regex/issues",
   "author": {
     "name": "Alex Gorbatchev",
     "url": "https://github.com/alexgorbatchev"
   },
-  "main": "./regex-lib.js",
+  "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/syntaxhighlighter/regex-lib.git"
+    "url": "https://github.com/syntaxhighlighter/syntaxhighlighter-regex.git"
   },
   "scripts": {
     "test": "mocha --opts mocha.opts test.js"
-  },
-  "dependencies": {
-    "xregexp": "^4.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.1.21",

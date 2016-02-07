@@ -1,6 +1,8 @@
-var XRegExp = require('xregexp');
+import XRegExp from './xregexp';
 
-module.exports = {
+export { XRegExp };
+
+export const commonRegExp = {
   multiLineCComments          : XRegExp('/\\*.*?\\*/', 'gs'),
   singleLineCComments         : /\/\/.*$/gm,
   singleLinePerlComments      : /#.*$/gm,
